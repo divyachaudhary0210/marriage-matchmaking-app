@@ -24,7 +24,7 @@ TECHNOLOGIES USED
 
 INSTALLATION
 1. Clone the Repository
-    git clone https://github.com/yourusername/marriage-matchmaking.git
+    git clone https://github.com/divyachaudhary0210/marriage-matchmaking-app.git
     cd marriage-matchmaking
 2. Create and Activate a Virtual Environment
     # For Windows
